@@ -1,0 +1,6 @@
+Number of lowercase e: 3099
+Number of right brackets: 408
+Number of left brackets: 403
+Number of lines: 716
+Number of string <!--: 2
+Number of the string -->: 2
