@@ -1,0 +1,33 @@
+animal = "elephant"
+
+letter = animal[0]
+print(letter)
+Output: e
+
+letter = animal[1]
+print(letter)
+Output: l
+
+letter = animal[2]
+print(letter)
+Output:n e
+
+letter = animal[3]
+print(letter)
+Output: p
+
+letter = animal[4]
+print(letter)
+Output: h
+
+letter = animal[5]
+print(letter)
+Output: a
+
+letter = animal[6]
+print(letter)
+Output: n
+
+letter = animal[7]
+print(letter)
+Output: t
