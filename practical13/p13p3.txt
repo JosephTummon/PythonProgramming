@@ -1,0 +1,3 @@
+a) It prints out the max value from function, then it prints none, as the function has empty return statement at the end.
+b) The program runs and finishes without doing anything. It need brackets to call the function.
+c) <function print_max at 0x1022132e0> It returns the memory address.
