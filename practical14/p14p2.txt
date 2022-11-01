@@ -1,0 +1,3 @@
+The recursive stops working after x >= 998. It says recursion exceeded in comparison.
+The non-recursive version could handle much larger numbers.
+I tried 1,000,000 but was taking a while for laptop so cancelled it.

@@ -1,0 +1,11 @@
+The recursive stops working after x >= 998. It says recursion exceeded in comparison.
+They non-recursive was much faster for smaller numbers, but slower for bigger
+The non-recursive version could handle much larger numbers.\
+
+For example when i enetered 6, i got times 0.055 for non-recursive
+and 0.0189 for recursive.
+
+For bigger numbers, like when i entered 100, i got 0.09 for my non-recursive 
+and I got 0.47 for my recursive
+
+
